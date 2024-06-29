@@ -9,3 +9,7 @@ Establishing a virtual environment necessitates the incorporation of essential p
 
 #### If you want to show a preview of the application and how it works you can download the "preview.html" file
 
+<br>
+
+## Diamond Price Predictor
+This is a diamond price predictor notebook and we have applied EDA and feature engineering and used Autogluon to use the model
